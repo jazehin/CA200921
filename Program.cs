@@ -12,6 +12,7 @@ namespace CA200921
 
         static void Main(string[] args)
         {
+            //nothing
             int[] tomb = new int[100];
             //feltöltés
             for (int i = 0; i < tomb.Length; i++) {
